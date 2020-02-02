@@ -2,6 +2,11 @@ aaa
 bbb
 ccc
 ddd
+<<<<<<< HEAD
 eee 222
 ddd
+=======
+eee
+ddd 111
+>>>>>>> master
 fff
